@@ -8,7 +8,7 @@ This program also opens to your default web browser, Pearls Before Swine Comic |
 
 The link to my YouTube demonstration is below:
 
-[Hello World Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/JpRBkObZERo)
 
 # Development Environment
 
